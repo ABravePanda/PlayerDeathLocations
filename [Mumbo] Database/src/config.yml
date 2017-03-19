@@ -1,0 +1,32 @@
+#----------DeathLocation-----------
+
+#This Plugin Is Made For MumboCraft & It's Players & Staff.. Any misuse or re-distribution of this plugin will call for said plugin to be removed
+#Plugin by A_Brave_Panda & Jamdoggy
+
+
+Hostname: 'localhost'
+Port: '3306'
+Database: 'id115504_mumbo'
+Username: 'root'
+Password: ''
+Table: 'deathlocations'
+
+
+#CREATE TABLE `deathlocations` (
+# `id` int(11) NOT NULL,
+#  `PlayerName` varchar(244) NOT NULL,
+# `X` varchar(244) NOT NULL,
+#  `Y` varchar(244) NOT NULL,
+#  `Z` varchar(244) NOT NULL,
+#  `DeathReason` varchar(244) NOT NULL,
+#  `world` varchar(255) NOT NULL,
+#  `Time` datetime DEFAULT NULL
+#) ENGINE=MyISAM DEFAULT CHARSET=latin1;
+
+#ALTER TABLE `deathlocations`
+# MODIFY `id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=13;
+
+#ALTER TABLE `deathlocations`
+#ADD PRIMARY KEY (`id`);
+
+#----------End-Of-Config-----------

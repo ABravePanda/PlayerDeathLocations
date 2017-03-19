@@ -1,0 +1,16 @@
+name: PlayerDeathLocations
+version: 1
+main: me.zachbears27.DeathLocation
+description: Player Death Locations
+author: A_Brave_Panda
+commands:
+    death:
+        usage: /<command>
+        description: Find a players death!
+    saveinv:
+        usage: /<command>
+        description: Find a players death!
+    loadinv:
+        usage: /<command>
+        description: Find a players death!
+      
